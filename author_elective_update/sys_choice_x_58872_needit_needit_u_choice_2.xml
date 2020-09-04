@@ -1,138 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_2" table="x_58872_needit_needit" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Human Resources 1</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>788af9012f87501098572f2ef699b60a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>hr1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Human Resources 2</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>1</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c58af9012f87501098572f2ef699b60c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>hr2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Facilities 1</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>2</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>818af9012f87501098572f2ef699b60e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>facilities 1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Facilities 2</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>3</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>4d8af9012f87501098572f2ef699b60f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>facilities 2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Legal 1</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>4</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>098af9012f87501098572f2ef699b611</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>legal 1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Legal 2</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>5</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c18af9012f87501098572f2ef699b613</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>legal 2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_2</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Your Department Choice 1</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>6</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8d8af9012f87501098572f2ef699b614</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
-            <value>your department choice 1</value>
-        </sys_choice>
+    <sys_choice action="DELETE" field="u_choice_2" table="x_58872_needit_needit" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_choice_2</element>
@@ -158,7 +25,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-09-02 21:47:11</sys_created_on>
-            <sys_id>b08af9012f87501098572f2ef699b60b</sys_id>
+            <sys_id>4cff3edd2f471010de374f2e2c99b63b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_choice_2</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -169,4 +36,49 @@
             <sys_updated_on>2020-09-02 21:47:11</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e6e20e736fcbb100869e7b2f5d3ee46d</instance_id>
+        <instance_name>dev12413</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_choice_2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_choice_2" table="x_58872_needit_needit" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_choice_2</element><hint/><inactive>false</inactive><label>Your Department Choice 2</label><language>en</language><name>x_58872_needit_needit</name><sequence>7</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 21:47:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>498af9012f87501098572f2ef699b616</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 21:47:11</sys_updated_on><value>your department choice 2</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_choice_2</element><name>x_58872_needit_needit</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 21:47:11</sys_created_on><sys_id>4cff3edd2f471010de374f2e2c99b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_choice_2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_choice_2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 21:47:11</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1913996827</payload_hash>
+        <record_name>x_58872_needit_needit.u_choice_2</record_name>
+        <reverted_from/>
+        <source>db6ffe992f471010de374f2e2c99b639</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-03 21:39:42</sys_created_on>
+        <sys_id>c56247912f871010de374f2e2c99b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17455e93bae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-03 21:39:42</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>016247914b871010a9bb5dbd99804641</update_guid>
+        <update_guid_history>016247914b871010a9bb5dbd99804641:-1913996827,c9624791738710104866589196982f3d:-1709381662,856247913c871010a176ac918719b03a:988722326,416247918a8710109493fe1ea1eda937:-1979305633,0d6247919a871010f60d2ddf1e65d833:-1718906177,c56247916c8710100ec6461154657530:-235069792,c1624791c98710103614d2aba577e62d:1100942818,8cff3edd934710105a6f5a40f85ede55:0,00ff3edd294710106170502d6f431920:-1208735331</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-03 21:39:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>4cff3edd2f471010de374f2e2c99b63b</sys_id>
+        <sys_metadata>4cff3edd2f471010de374f2e2c99b63b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_choice_2</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_choice_2">c56247912f871010de374f2e2c99b641</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-03 21:39:42</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>
